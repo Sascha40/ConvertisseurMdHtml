@@ -31,10 +31,10 @@ Attention la syntaxe est importante lors des `-i`et `-o`pour que cela fonctionne
 ## Utilisation de la v2:
 
 * Lancez `convertisseurV2.py` dans votre éditeur/runner préféré ou dans le terminal. 
-* Il vous demande le chemin de votre fichier Markdown d'entrée, puis le chemin de sauvegarde du fichier HTML généré.
+* Il vous demande le chemin de votre fichier Markdown d'entrée.
 * Copiez-collez vos chemins si votre éditeur le permet, sinon vous êtes partis pour une session d'écriture.
 * Faites entrer
-* Hop, votre fichier source en markdown est converti.
+* Hop, votre fichier source en markdown est converti dans le dossier ou se trouve votre `convertisseurV2.py`.
 
 ## Utilisation du futur module-opensource :
 
