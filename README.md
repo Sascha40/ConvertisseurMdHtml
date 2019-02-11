@@ -38,7 +38,7 @@ Attention la syntaxe est importante lors des `-i`et `-o`pour que cela fonctionne
 
 ## Utilisation du futur module-opensource :
 
-* Lancez `convertisseurOC.py` dans votre éditeur/runner préféré ou dans le terminal. 
+* Lancez `convertisseurOpenSource.py` dans votre éditeur/runner préféré ou dans le terminal. 
 * Il vous demande le chemin de votre fichier HTML d'entrée, puis le chemin de sauvegarde du fichier Markdown généré.
 * Copiez-collez vos chemins si votre éditeur le permet, sinon vous êtes partis pour une session d'écriture.
 * Faites entrer
